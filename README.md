@@ -29,8 +29,11 @@ Here only authenticated users are come,and the main advantage of this project, u
 ## <h2 id="demo" >Demo </h2>
 
 <p>
-   
+
+   <img src="https://github.com/Nik4Furi/user-auth/assets/91304976/47927e2a-5780-46e7-aa0f-100c117179c4" alt="Home" width="300" />
+   <img src="https://github.com/Nik4Furi/user-auth/assets/91304976/22d686c7-33a5-4303-8471-d8a81edfe3d0" alt="Admin" width="300" />
 </p>
+
 
 <a href="#user-auth">Go Home </a>
 
