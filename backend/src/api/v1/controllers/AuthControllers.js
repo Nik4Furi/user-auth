@@ -9,7 +9,7 @@ const UserModel = require('../models/UsersModal'); //User modal
 
 
 //------------ Utils Specific Stuff
-const SendMail = require('../utils/SendMail');
+const SendMail = require('../Utils/SendMail');
 
 
 //------------------ Creating the AuthControllers to authenticate the users -----------X
